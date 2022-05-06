@@ -11,7 +11,7 @@ Notary Made Permanent
 Credence provide users to store Notary document, video or even text in Arweave Infra. It also provide visualization of most of the file in the UI instead of downloading it on the local machine
 
 ## Installation
-Follow these easy steps to run Credence in your machine
+Follow these easy steps to run Credence in your machine.....
 
  1. Clone repo in your local
  2. ```npm install```
