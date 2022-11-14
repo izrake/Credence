@@ -14,7 +14,7 @@ Credence provide users to store Notary document, video or even text in Arweave I
 Follow these easy steps to run Credence in your machine.....
 
  1. Clone repo in your local
- 2. ```npm install```
+ 2. ```npm install``` asdasd
 3. ```npm start```
 
 Credence Web App will start running on localhost
